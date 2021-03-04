@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "999444505864",
+    "project_id": "perevozki40-ru",
+    "storage_bucket": "perevozki40-ru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999444505864:android:8d906ec107469ac6dbb8bd",
+        "android_client_info": {
+          "package_name": "ru.koldashev.perevozchik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999444505864-iu073u31kd8vg2nptpk9h15osj2vr4hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF12cWI3my1yVTXKnmsJU83vPnf4LakCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999444505864-iu073u31kd8vg2nptpk9h15osj2vr4hs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "999444505864-1vvj1fungje1h7bb6t3c8pnmo4nv4v6r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.perevozki40.perevozki40ru"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999444505864:android:20ef5499a3f54023dbb8bd",
+        "android_client_info": {
+          "package_name": "ru.perevozki40.perevozki40ru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999444505864-iu073u31kd8vg2nptpk9h15osj2vr4hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF12cWI3my1yVTXKnmsJU83vPnf4LakCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999444505864-iu073u31kd8vg2nptpk9h15osj2vr4hs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "999444505864-1vvj1fungje1h7bb6t3c8pnmo4nv4v6r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.perevozki40.perevozki40ru"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
